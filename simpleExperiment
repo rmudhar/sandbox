@@ -1,0 +1,13 @@
+/* simple experiment */
+
+#include <stdio.h>
+
+void printMsg( void )
+{
+  printf("Hello, this is a test\n");
+}
+
+int main( int argc, char** argv )
+{
+  printMsg();
+}
